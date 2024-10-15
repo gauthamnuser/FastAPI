@@ -5,7 +5,7 @@
 1:Simple Interest
 
 url: /simple_interest/{total_amount}/{years}/{percent} \
-method:post\
+method:get\
 keys: total_amount,years,percent
 
 2:Compound interest
